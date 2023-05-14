@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="29.700001cm"
+   height="42cm"
+   viewBox="0 0 297 420"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="objetos.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.29116853"
+     inkscape:cx="621.16319"
+     inkscape:cy="660.5551"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="cm"
+     fit-margin-top="1"
+     lock-margins="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="993"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833"
+       originx="10"
+       originy="10" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="1.2.15 a"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none">
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/ala delta.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/ala%20delta.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image845"
+       x="9.9620018"
+       y="10" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/aliento a ajo.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/aliento%20a%20ajo.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image859"
+       x="159.96201"
+       y="210.00867" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/armadura ancestral.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/armadura%20ancestral.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image873"
+       x="9.9620018"
+       y="210" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/armadura de holalta.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/armadura%20de%20holalta.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image887"
+       x="59.962002"
+       y="210" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/armadura mecanica.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/armadura%20mecanica.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image901"
+       x="109.962"
+       y="210" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/bomba de humo.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/bomba%20de%20humo.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image915"
+       x="159.96201"
+       y="110.00866" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/camuflaje.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/camuflaje.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image929"
+       x="10"
+       y="110" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/ceguera.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/ceguera.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image943"
+       x="59.962002"
+       y="10.008659" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/chaleco palestino.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/chaleco%20palestino.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image957"
+       x="109.96201"
+       y="10.008659" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/escudo antimotines.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/escudo%20antimotines.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image971"
+       x="60"
+       y="110.00866" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/escudo pinchudo.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/escudo%20pinchudo.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image985"
+       x="10"
+       y="310" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/espada de globos.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/espada%20de%20globos.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image999"
+       x="60"
+       y="310" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/espada reciclable.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/espada%20reciclable.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1013"
+       x="110"
+       y="310.00867" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/garrote primitivo.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/garrote%20primitivo.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1027"
+       x="160"
+       y="310.00867" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/gomera casera.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/gomera%20casera.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1041"
+       x="210"
+       y="210.00867" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/granadas de gas lacrimogeno.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/granadas%20de%20gas%20lacrimogeno.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1055"
+       x="210"
+       y="110" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/jetpack experimental.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/jetpack%20experimental.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1069"
+       x="109.962"
+       y="110.00866" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/katana.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/katana.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1083"
+       x="209.96201"
+       y="10.008659" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/lanzallamas.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/lanzallamas.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1097"
+       x="159.96201"
+       y="10" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/monociclo.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/monociclo.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1111"
+       x="209.96201"
+       y="310" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="1.2.15 b"
+     style="display:none">
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/nunchakus.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/nunchakus.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1126"
+       x="9.9620018"
+       y="10.008659" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/oportunismo voraz.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/oportunismo%20voraz.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1140"
+       x="59.962002"
+       y="110.00866" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/posicion estrategica.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/posicion%20estrategica.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1154"
+       x="10"
+       y="110.00866" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/remachador neumatico.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/remachador%20neumatico.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1168"
+       x="59.962002"
+       y="10.008659" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/rifle de francotirador.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/rifle%20de%20francotirador.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1182"
+       x="109.96201"
+       y="10.008659" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/seguro de vida.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/seguro%20de%20vida.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1196"
+       x="159.96201"
+       y="10.008659" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/tarta magica.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/tarta%20magica.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1210"
+       x="209.96201"
+       y="10.008659" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/cartas_viejas/objetos/toma de aikido.kra.png"
+       xlink:href="../1.3/1.2.15/cartas_viejas/objetos/toma%20de%20aikido.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1224"
+       x="110"
+       y="110" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/modificadas/objetos/autopsia milagrosa.kra.png"
+       xlink:href="../1.3/1.2.15/modificadas/objetos/autopsia%20milagrosa.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1238"
+       x="109.96201"
+       y="310.00867" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/modificadas/objetos/bw40.kra.png"
+       xlink:href="../1.3/1.2.15/modificadas/objetos/bw40.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1252"
+       x="109.962"
+       y="210" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/modificadas/objetos/camuflaje.kra.png"
+       xlink:href="../1.3/1.2.15/modificadas/objetos/camuflaje.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1266"
+       x="159.96201"
+       y="310.00867" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/modificadas/objetos/cargo de conciencia.kra.png"
+       xlink:href="../1.3/1.2.15/modificadas/objetos/cargo%20de%20conciencia.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1280"
+       x="209.96201"
+       y="210.00867" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/modificadas/objetos/casco vikingo.kra.png"
+       xlink:href="../1.3/1.2.15/modificadas/objetos/casco%20vikingo.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1294"
+       x="59.962002"
+       y="310.00867" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/modificadas/objetos/esteroides.kra.png"
+       xlink:href="../1.3/1.2.15/modificadas/objetos/esteroides.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1308"
+       x="159.96201"
+       y="210.00867" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/modificadas/objetos/exhumacion sorpresa.kra.png"
+       xlink:href="../1.3/1.2.15/modificadas/objetos/exhumacion%20sorpresa.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1322"
+       x="209.96201"
+       y="310.00867" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/modificadas/objetos/globo aerostatic.kra.png"
+       xlink:href="../1.3/1.2.15/modificadas/objetos/globo%20aerostatic.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1336"
+       x="60"
+       y="210.00867" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/modificadas/objetos/hacha nordica.kra.png"
+       xlink:href="../1.3/1.2.15/modificadas/objetos/hacha%20nordica.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1350"
+       x="9.9620018"
+       y="310.00867" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/modificadas/objetos/lanza de guerra.kra.png"
+       xlink:href="../1.3/1.2.15/modificadas/objetos/lanza%20de%20guerra.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1364"
+       x="10"
+       y="210.00867" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/modificadas/objetos/orsai.kra.png"
+       xlink:href="../1.3/1.2.15/modificadas/objetos/orsai.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1378"
+       x="209.96201"
+       y="110" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/modificadas/objetos/osde.kra.png"
+       xlink:href="../1.3/1.2.15/modificadas/objetos/osde.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1392"
+       x="160"
+       y="110.00866" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="1.2.15 c y 1.3 a"
+     style="display:inline">
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/modificadas/objetos/oxidacion.kra.png"
+       xlink:href="../1.3/1.2.15/modificadas/objetos/oxidacion.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1407"
+       x="9.9620018"
+       y="10.008659" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/modificadas/objetos/pipa de la paz.kra.png"
+       xlink:href="../1.3/1.2.15/modificadas/objetos/pipa%20de%20la%20paz.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1421"
+       x="10"
+       y="110" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/modificadas/objetos/pulso_electromagnetico.kra.png"
+       xlink:href="../1.3/1.2.15/modificadas/objetos/pulso_electromagnetico.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1435"
+       x="59.962002"
+       y="10.008659" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/modificadas/objetos/seguro de vida.kra.png"
+       xlink:href="../1.3/1.2.15/modificadas/objetos/seguro%20de%20vida.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1449"
+       x="109.96201"
+       y="10.008659" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/modificadas/objetos/sweater de pelo de cabra escandinava.kra.png"
+       xlink:href="../1.3/1.2.15/modificadas/objetos/sweater%20de%20pelo%20de%20cabra%20escandinava.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1463"
+       x="159.96201"
+       y="10.008659" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/1.2.15/modificadas/objetos/vision telescopica.kra.png"
+       xlink:href="../1.3/1.2.15/modificadas/objetos/vision%20telescopica.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1477"
+       x="209.96201"
+       y="10.008659" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/objetos/completas/png/alcaucil_vigoroso.png"
+       xlink:href="../1.3/nuevas/objetos/completas/png/alcaucil_vigoroso.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1491"
+       x="59.962002"
+       y="110.00866" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/objetos/completas/png/armadura gótica.png"
+       xlink:href="../1.3/nuevas/objetos/completas/png/armadura%20g%C3%B3tica.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1505"
+       x="59.962002"
+       y="210.00867" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/objetos/completas/png/espada+1.png"
+       xlink:href="../1.3/nuevas/objetos/completas/png/espada+1.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1519"
+       x="10"
+       y="210.00867" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/objetos/completas/png/espada de calvicie.png"
+       xlink:href="../1.3/nuevas/objetos/completas/png/espada%20de%20calvicie.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1533"
+       x="159.96201"
+       y="110.00866" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/objetos/completas/png/facón de mandinga.png"
+       xlink:href="../1.3/nuevas/objetos/completas/png/fac%C3%B3n%20de%20mandinga.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1547"
+       x="110"
+       y="110.00866" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/objetos/completas/png/símbolo maligno.png"
+       xlink:href="../1.3/nuevas/objetos/completas/png/s%C3%ADmbolo%20maligno.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1561"
+       x="209.96201"
+       y="110" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/obstaculos.png"
+       xlink:href="../1.3/obstaculos.png"
+       width="50.535416"
+       height="100.54166"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1575"
+       x="109.46458"
+       y="209.45834" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/obstaculos.png"
+       xlink:href="../1.3/obstaculos.png"
+       width="50.535416"
+       height="100.54166"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1575-3"
+       x="159.46458"
+       y="209.45834" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/obstaculos.png"
+       xlink:href="../1.3/obstaculos.png"
+       width="50.535416"
+       height="100.54166"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1575-3-6"
+       x="209.46458"
+       y="210" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/obstaculos.png"
+       xlink:href="../1.3/obstaculos.png"
+       width="50.535416"
+       height="100.54166"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1575-3-7"
+       x="9.4645844"
+       y="309.45834" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/amarilla.png"
+       xlink:href="../1.3/amarilla.png"
+       y="310"
+       x="59.962002"
+       id="image80"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/azul.png"
+       xlink:href="../1.3/azul.png"
+       y="310.00867"
+       x="109.96201"
+       id="image94"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/roja.png"
+       xlink:href="../1.3/roja.png"
+       y="310.00867"
+       x="159.96201"
+       id="image108"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/violeta.png"
+       xlink:href="../1.3/violeta.png"
+       y="310.00867"
+       x="210"
+       id="image122"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+  </g>
+</svg>

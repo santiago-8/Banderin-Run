@@ -1,0 +1,1222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="29.700001cm"
+   height="42cm"
+   viewBox="0 0 297 420"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="criaturas.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98194287"
+     inkscape:cx="521.97652"
+     inkscape:cy="1211.688"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer8"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     fit-margin-top="1"
+     lock-margins="true"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     units="cm"
+     showborder="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="993"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833"
+       spacingx="50"
+       spacingy="100"
+       originx="10"
+       originy="10" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="1.2.15 a"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-48.962002,-99)"
+     style="display:none">
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/abogado carroñero.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/abogado%20carron%CC%83ero.kra.png"
+       y="109"
+       x="58.962002"
+       id="image40"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/albondigas de la rencarnacion.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/albondigas%20de%20la%20rencarnacion.kra.png"
+       y="409"
+       x="208.92401"
+       id="image54"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/apostador compulsivo.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/apostador%20compulsivo.kra.png"
+       y="409"
+       x="158.92401"
+       id="image68"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/araña ametralladora.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/aran%CC%83a%20ametralladora.kra.png"
+       y="409"
+       x="108.924"
+       id="image82"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/arquero elfico.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/arquero%20elfico.kra.png"
+       y="309.00867"
+       x="258.92401"
+       id="image96"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/artista de vanguardia.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/artista%20de%20vanguardia.kra.png"
+       y="309"
+       x="208.92401"
+       id="image110"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/barrabrava tirapiedra.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/barrabrava%20tirapiedra.kra.png"
+       y="309.00867"
+       x="158.92401"
+       id="image124"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/bateria misilistica.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/bateria%20misilistica.kra.png"
+       y="209.00867"
+       x="258.92401"
+       id="image138"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/bisabuelo rico.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/bisabuelo%20rico.kra.png"
+       y="209.00867"
+       x="208.96201"
+       id="image152"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/bruja del bosque.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/bruja%20del%20bosque.kra.png"
+       y="309"
+       x="108.924"
+       id="image166"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/caballero caza demonios.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/caballero%20caza%20demonios.kra.png"
+       y="209.00867"
+       x="158.96201"
+       id="image180"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/caballero espectral.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/caballero%20espectral.kra.png"
+       y="209"
+       x="108.96201"
+       id="image194"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/cartonero suertudo.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/cartonero%20suertudo.kra.png"
+       y="409"
+       x="58.924004"
+       id="image208"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/catapulta improvisada.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/catapulta%20improvisada.kra.png"
+       y="309"
+       x="58.962002"
+       id="image222"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/cazaf11.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/cazaf11.kra.png"
+       y="209"
+       x="58.924004"
+       id="image236"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/cria de dragon.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/cria%20de%20dragon.kra.png"
+       y="109"
+       x="108.924"
+       id="image250"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/cuervo del mal agüero.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/cuervo%20del%20mal%20agu%CC%88ero.kra.png"
+       y="109.00866"
+       x="208.96201"
+       id="image264"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/dragon a vapor.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/dragon%20a%20vapor.kra.png"
+       y="109.00866"
+       x="258.96201"
+       id="image278"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/dragon bicefalo.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/dragon%20bicefalo.kra.png"
+       y="109"
+       x="158.92401"
+       id="image292"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/dragon celestial.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/dragon%20celestial.kra.png"
+       y="409"
+       x="258.92401"
+       id="image306"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="1.2.15 b"
+     style="display:none">
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/dragon infernal.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/dragon%20infernal.kra.png"
+       y="310.00867"
+       x="9.9620018"
+       id="image322"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/duende de la buena pipa.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/duende%20de%20la%20buena%20pipa.kra.png"
+       y="310.00867"
+       x="59.962002"
+       id="image336"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/duende escurridizo.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/duende%20escurridizo.kra.png"
+       y="310.00867"
+       x="110"
+       id="image350"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/el inimputable.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/el%20inimputable.kra.png"
+       y="210.00867"
+       x="160"
+       id="image364"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/ent biodegradador.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/ent%20biodegradador.kra.png"
+       y="310"
+       x="210"
+       id="image378"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/ent espinoso.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/ent%20espinoso.kra.png"
+       y="210.00867"
+       x="9.9620018"
+       id="image392"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/esfinge enigmatica.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/esfinge%20enigmatica.kra.png"
+       y="210.00867"
+       x="60"
+       id="image406"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/estadista apostador.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/estadista%20apostador.kra.png"
+       y="210"
+       x="110"
+       id="image420"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/fantasma melancolico.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/fantasma%20melancolico.kra.png"
+       y="310.00867"
+       x="160"
+       id="image434"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/gigante con honda.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/gigante%20con%20honda.kra.png"
+       y="210.00867"
+       x="210"
+       id="image462"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/gil trabajador.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/gil%20trabajador.kra.png"
+       y="10.008659"
+       x="60"
+       id="image476"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/grulla de papel inspiradora.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/grulla%20de%20papel%20inspiradora.kra.png"
+       y="10"
+       x="109.96201"
+       id="image490"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/heredero afortunado.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/heredero%20afortunado.kra.png"
+       y="10"
+       x="159.96201"
+       id="image504"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/hippie asustadiza.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/hippie%20asustadiza.kra.png"
+       y="10.008659"
+       x="209.96201"
+       id="image518"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/mamut blindado.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/mamut%20blindado.kra.png"
+       y="110.00866"
+       x="209.96201"
+       id="image532"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/mantis comehombres.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/mantis%20comehombres.kra.png"
+       y="110.00866"
+       x="159.96201"
+       id="image546"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/mecanico cabeza de tuerca.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/mecanico%20cabeza%20de%20tuerca.kra.png"
+       y="110.00866"
+       x="109.96201"
+       id="image560"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/ninja deshonrado.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/ninja%20deshonrado.kra.png"
+       y="110.00866"
+       x="59.962002"
+       id="image574"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/niña exploradora ninja.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/nin%CC%83a%20exploradora%20ninja.kra.png"
+       y="110.00866"
+       x="9.9620018"
+       id="image588"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/ogro fisicoculturista.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/ogro%20fisicoculturista.kra.png"
+       y="10.008659"
+       x="9.9620018"
+       id="image602"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="1.2.15 c"
+     style="display:none">
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/paisano cazaperdices.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/paisano%20cazaperdices.kra.png"
+       y="10"
+       x="9.9620018"
+       id="image617"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/politico en campaña.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/politico%20en%20campan%CC%83a.kra.png"
+       y="10"
+       x="209.96201"
+       id="image631"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/portador del estandarte.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/portador%20del%20estandarte.kra.png"
+       y="10"
+       x="159.96201"
+       id="image645"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/pungista corajudo.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/pungista%20corajudo.kra.png"
+       y="10"
+       x="110"
+       id="image659"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/vampiro de arrabal.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/vampiro%20de%20arrabal.kra.png"
+       y="110"
+       x="59.962002"
+       id="image673"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/vasco cazadragones.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/vasco%20cazadragones.kra.png"
+       y="110"
+       x="9.9620018"
+       id="image687"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/viejo amarrete.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/viejo%20amarrete.kra.png"
+       y="10"
+       x="59.962002"
+       id="image701"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/arquero del clan de la muerte.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/arquero%20del%20clan%20de%20la%20muerte.kra.png"
+       y="310.00867"
+       x="209.96201"
+       id="image715"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/atormentador recurrente.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/atormentador%20recurrente.kra.png"
+       y="110.00866"
+       x="209.96201"
+       id="image729"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/bombero exorcista.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/bombero%20exorcista.kra.png"
+       y="210"
+       x="10"
+       id="image743"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/centauro cimarron.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/centauro%20cimarron.kra.png"
+       y="110.00866"
+       x="159.96201"
+       id="image757"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/chancha protectora.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/chancha%20protectora.kra.png"
+       y="110.00866"
+       x="109.96201"
+       id="image771"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/cosechadora de carne.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/cosechadora%20de%20carne.kra.png"
+       y="310.00867"
+       x="159.96201"
+       id="image785"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/demonio de las profundidades.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/demonio%20de%20las%20profundidades.kra.png"
+       y="310.00867"
+       x="110"
+       id="image799"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/devorador de almas.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/devorador%20de%20almas.kra.png"
+       y="310.00867"
+       x="59.962002"
+       id="image813"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/diablillo alado.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/diablillo%20alado.kra.png"
+       y="310.00867"
+       x="9.9620018"
+       id="image827"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/doble de riesgo.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/doble%20de%20riesgo.kra.png"
+       y="210.00867"
+       x="209.96201"
+       id="image841"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/druida centauro.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/druida%20centauro.kra.png"
+       y="210.00867"
+       x="60"
+       id="image855"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/duende taliban.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/duende%20taliban.kra.png"
+       y="210.00867"
+       x="159.96201"
+       id="image869"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/ent de la oxidacion.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/ent%20de%20la%20oxidacion.kra.png"
+       y="210.00867"
+       x="109.962"
+       id="image883"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="1.2.15 d"
+     style="display:none">
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/escuadron antidisturbios.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/escuadron%20antidisturbios.kra.png"
+       y="10.008659"
+       x="109.96201"
+       id="image898"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/espantapajaros poseido.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/espantapajaros%20poseido.kra.png"
+       y="10.008659"
+       x="159.96201"
+       id="image912"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/golem de gomaespuma.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/golem%20de%20gomaespuma.kra.png"
+       y="10.008659"
+       x="210"
+       id="image926"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/golem de piedra.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/golem%20de%20piedra.kra.png"
+       y="110.00866"
+       x="10"
+       id="image940"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/inventora osada.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/inventora%20osada.kra.png"
+       y="110"
+       x="60"
+       id="image954"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/irlandes buscapleitos.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/irlandes%20buscapleitos.kra.png"
+       y="110"
+       x="109.96201"
+       id="image968"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/jauria_de_20_chanchitos.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/jauria_de_20_chanchitos.kra.png"
+       y="110.00866"
+       x="159.96201"
+       id="image982"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/malabarista zigzagueante.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/malabarista%20zigzagueante.kra.png"
+       y="110.00866"
+       x="210"
+       id="image996"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/maquina de hacer chorizos.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/maquina%20de%20hacer%20chorizos.kra.png"
+       y="210"
+       x="9.9620018"
+       id="image1010"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/mecanico auxiliar.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/mecanico%20auxiliar.kra.png"
+       y="210"
+       x="60"
+       id="image1024"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/medico de campaña.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/medico%20de%20campan%CC%83a.kra.png"
+       y="210.00867"
+       x="109.962"
+       id="image1038"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/mendigo persistente.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/mendigo%20persistente.kra.png"
+       y="210"
+       x="159.96201"
+       id="image1052"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/mimo del deja vu.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/mimo%20del%20deja%20vu.kra.png"
+       y="210.00867"
+       x="209.96201"
+       id="image1066"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/monje shaolin.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/monje%20shaolin.kra.png"
+       y="310.00867"
+       x="9.9620018"
+       id="image1080"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/octeto de tubas hipnotistas.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/octeto%20de%20tubas%20hipnotistas.kra.png"
+       y="310.00867"
+       x="60"
+       id="image1094"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/plaga de langostas carnivoras.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/plaga%20de%20langostas%20carnivoras.kra.png"
+       y="310.00867"
+       x="109.962"
+       id="image1108"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/rubia discutidora.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/rubia%20discutidora.kra.png"
+       y="10"
+       x="9.9620018"
+       id="image1122"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/modificadas/criaturas/uruguayo cebador.kra.png"
+       xlink:href="../1.2.15/modificadas/criaturas/uruguayo%20cebador.kra.png"
+       y="10"
+       x="60"
+       id="image1136"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/generica.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/generica.kra.png"
+       y="310"
+       x="160"
+       id="image1150"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.2.15/cartas_viejas/criaturas/generica.kra.png"
+       xlink:href="../1.2.15/cartas_viejas/criaturas/generica.kra.png"
+       width="50.037998"
+       height="99.991341"
+       preserveAspectRatio="none"
+       id="image1150-3"
+       x="210"
+       y="310" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="1.3 a"
+     style="display:none">
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/alpaca_portaponcho.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/alpaca_portaponcho.png"
+       y="10.008659"
+       x="9.9620018"
+       id="image1185"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/arlequín macabro.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/arlequ%C3%ADn%20macabro.png"
+       y="310.00867"
+       x="210"
+       id="image1199"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/bardo_inframundo.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/bardo_inframundo.png"
+       y="310.00867"
+       x="160"
+       id="image1213"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/bombarda_sorpresa.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/bombarda_sorpresa.png"
+       y="310.00867"
+       x="110"
+       id="image1227"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/bondi 4 pisos.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/bondi%204%20pisos.png"
+       y="310.00867"
+       x="60"
+       id="image1241"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/caballero de la orden.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/caballero%20de%20la%20orden.png"
+       y="310.00867"
+       x="10"
+       id="image1255"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/caballero en vela.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/caballero%20en%20vela.png"
+       y="210"
+       x="9.9620018"
+       id="image1269"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/camel from hell.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/camel%20from%20hell.png"
+       y="210.00867"
+       x="60"
+       id="image1283"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/carlos_el_unicirnio.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/carlos_el_unicirnio.png"
+       y="210.00867"
+       x="110"
+       id="image1297"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/catapulta_cruz_roja.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/catapulta_cruz_roja.png"
+       y="210"
+       x="160"
+       id="image1311"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/cebollines_de_combate.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/cebollines_de_combate.png"
+       y="210.00867"
+       x="209.96201"
+       id="image1325"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/contemplador tuerto.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/contemplador%20tuerto.png"
+       y="110"
+       x="10"
+       id="image1339"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/demonio_niebla.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/demonio_niebla.png"
+       y="110"
+       x="60"
+       id="image1353"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/duelista del tugurio.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/duelista%20del%20tugurio.png"
+       y="110"
+       x="110"
+       id="image1367"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/espectro_de_neon.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/espectro_de_neon.png"
+       y="110"
+       x="160"
+       id="image1381"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/gato astral.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/gato%20astral.png"
+       y="110"
+       x="210"
+       id="image1409"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/gaucho payador.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/gaucho%20payador.png"
+       y="10.008659"
+       x="209.96201"
+       id="image1423"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/hada bosque negro.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/hada%20bosque%20negro.png"
+       y="10.008659"
+       x="160"
+       id="image1437"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/hada del castillo.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/hada%20del%20castillo.png"
+       y="10"
+       x="59.962002"
+       id="image1451"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/Festejante del aniversario editada.jpg.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/Festejante%20del%20aniversario%20editada.jpg.png"
+       y="10.008659"
+       x="109.96201"
+       id="image1480"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="1.3 b">
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/hechicero vampiro.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/hechicero%20vampiro.png"
+       y="10"
+       x="10"
+       id="image1494"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/lagartoide.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/lagartoide.png"
+       y="10.008659"
+       x="59.962002"
+       id="image1508"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/lechucita_arcana.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/lechucita_arcana.png"
+       y="10.008659"
+       x="109.96201"
+       id="image1522"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/luthier calibrador.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/luthier%20calibrador.png"
+       y="10.008659"
+       x="159.96201"
+       id="image1536"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/mariposa vampiro.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/mariposa%20vampiro.png"
+       y="10.008659"
+       x="209.96201"
+       id="image1550"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/mono_espeluznante.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/mono_espeluznante.png"
+       y="110"
+       x="209.96201"
+       id="image1564"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/ñandu_surcapampa.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/%C3%B1andu_surcapampa.png"
+       y="110"
+       x="160"
+       id="image1578"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/perrito_con_sandalias.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/perrito_con_sandalias.png"
+       y="110.00866"
+       x="109.962"
+       id="image1592"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/pichicho amiguero.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/pichicho%20amiguero.png"
+       y="110.00866"
+       x="59.962002"
+       id="image1606"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/poltergeist.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/poltergeist.png"
+       y="110.00866"
+       x="9.9620018"
+       id="image1620"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/portador del blanco.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/portador%20del%20blanco.png"
+       y="210.00867"
+       x="209.96201"
+       id="image1634"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/rakshasa de neón.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/rakshasa%20de%20ne%C3%B3n.png"
+       y="210.00867"
+       x="159.96201"
+       id="image1648"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/reina_vampiro.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/reina_vampiro.png"
+       y="210.00867"
+       x="109.962"
+       id="image1662"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/salamandra pal mate.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/salamandra%20pal%20mate.png"
+       y="210.00867"
+       x="59.962002"
+       id="image1676"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/sierva_de_la_burocracia.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/sierva_de_la_burocracia.png"
+       y="210.00867"
+       x="9.9620018"
+       id="image1690"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/vieja chusma.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/vieja%20chusma.png"
+       y="310.00867"
+       x="9.9620018"
+       id="image1704"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/nuevas/criaturas/completas/png/vieja fuego.png"
+       xlink:href="../1.3/nuevas/criaturas/completas/png/vieja%20fuego.png"
+       y="310"
+       x="59.962002"
+       id="image1718"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.991341"
+       width="50.037998" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/obstaculos.png"
+       xlink:href="../1.3/obstaculos.png"
+       y="310"
+       x="209.99376"
+       id="image1770"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="99.488871"
+       width="50.006248" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/obstaculos.png"
+       xlink:href="../1.3/obstaculos.png"
+       width="50.006248"
+       height="99.488871"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1770-3"
+       x="159.99374"
+       y="310" />
+    <image
+       sodipodi:absref="/home/santiago/BanderinRun/1.3/obstaculos.png"
+       xlink:href="../1.3/obstaculos.png"
+       width="50.006248"
+       height="99.488869"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1770-3-5"
+       x="109.99375"
+       y="309.98749" />
+  </g>
+</svg>
